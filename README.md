@@ -45,7 +45,9 @@ import org.springframework.web.socket.server.standard.ServerEndpointExporter;
 
 /**
  * 开启WebSocket支持
- * @author zhengkai
+ * @author muyuer 182443947@qq.com
+ * @version 1.0
+ * @date 2019-07-22 18:16
  */
 @Configuration
 public class WebSocketConfig {
